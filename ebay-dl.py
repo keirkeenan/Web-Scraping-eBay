@@ -25,7 +25,7 @@ def parse_itemssold(text):
 
 def parse_itemprice(text):
     '''
-    Takes input with $ or range and returns a single integer .
+    Takes input with $ or range and returns the price of the item in cents.
 
     >>> parse_itemprice('$25.05')
     2505
