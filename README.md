@@ -2,10 +2,10 @@
 
 <pre><code>
 python ebay-dl.py 'iphone charger'
-</code><pre>
+</code></pre>
 <pre><code>
 python ebay-dl.py 'iphone'
-</code><pre>
+</code></pre>
 <pre><code>
 python ebay-dl.py 'airpods'
-</code><pre>
+</code></pre>
