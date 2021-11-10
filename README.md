@@ -26,16 +26,19 @@ For example, to search for `iphone charger` I put the following command in the t
 ```
 python ebay-dl.py 'iphone charger'
 ```
+to produce the [iphone charger.json](https://github.com/keirkeenan/hw_03/blob/main/iphone%20charger.json) file.
 
-to search for `iphone` I put:
+To search for `iphone` I put:
 ```
 python ebay-dl.py 'iphone'
 ```
+to produce the [iphone.json](https://github.com/keirkeenan/hw_03/blob/main/iphone.json) file.
 
-to search for `airpods` I put:
+To search for `airpods` I put:
 ```
 python ebay-dl.py 'airpods'
 ```
+to produce the [airpods.json](https://github.com/keirkeenan/hw_03/blob/main/airpods.json) file.
 
 ---
 
