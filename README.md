@@ -13,7 +13,7 @@ The `ebay-dl.py` file does the following:
 2. loops over the eBay webpages 
     1. builds the url
     2. downloads the html
-    3. process3e the html
+    3. processes the html
     4. loops over the items in the page
 3. writes the JSON to a file
 
@@ -27,12 +27,12 @@ For example, to search for `iphone charger` I put the following command in the t
 python ebay-dl.py 'iphone charger'
 ```
 
-to search for `iphone` charger I put:
+to search for `iphone` I put:
 ```
 python ebay-dl.py 'iphone'
 ```
 
-to search for `airpods` charger I put
+to search for `airpods` I put:
 ```
 python ebay-dl.py 'airpods'
 ```
